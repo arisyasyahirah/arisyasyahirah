@@ -13,16 +13,14 @@
 - **Last updated**: Feb 26, 2026
 
 ---
-
+<div align="left">
 ### 💻 Tech Stack & Skills
-- JavaScript/TypeScript
-- Java
-- HTML/CSS
-- React
-- Node.js
-- Python
-- MySQL
-- Git & GitHub
+
+JavaScript &nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp; Three.js &nbsp;&nbsp;&nbsp; Node.js &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Shell &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; MySQL
+
+MongoDB &nbsp;&nbsp;&nbsp; D3.js &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; Postman &nbsp;&nbsp;&nbsp; Visual Studio Code
+
+</div>
 
 ---
 
