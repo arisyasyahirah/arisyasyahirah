@@ -2,19 +2,10 @@
 
 **Software Engineering Student** · she/her
 
----
 
-## 📊 GitHub Stats
-
-- **Total Contributions**: [Your contributions]
-- **Current Streak**: [Your streak]
-- **Longest Streak**: [Your longest streak]
-- **Member since**: [Join date]
-- **Last updated**: Feb 26, 2026
-
----
-<div align="left">
 ### 💻 Tech Stack & Skills
+<div align="left">
+
 
 JavaScript &nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp; Three.js &nbsp;&nbsp;&nbsp; Node.js &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Shell &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; MySQL
 
@@ -22,41 +13,27 @@ MongoDB &nbsp;&nbsp;&nbsp; D3.js &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; Pos
 
 </div>
 
----
-
 ### 🛠️ Tools & Technologies
 - VS Code
 - Postman
 - Figma
 - MongoDB
 - D3.js
+<div align="left">
 
----
+
+VS Code &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp; Three.js &nbsp;&nbsp;&nbsp; Node.js &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Shell &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; MySQL
+
+MongoDB &nbsp;&nbsp;&nbsp; D3.js &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; Postman &nbsp;&nbsp;&nbsp; Visual Studio Code
+
+</div>
 
 ### 🏆 Achievements & Highlights
 - Bachelor of Computer Science (Software Engineering)
 - Passionate about Software Development
 - Problem Solving & Building Scalable Applications
 
----
 
-### 🌐 Connect with Me
-- 📍 Malaysia
-- 🔗 [LinkedIn](https://linkedin.com/in/arisa-syahirah-3b54a8262)
-- 🕐 UTC +08:00
-
----
-
-### 📌 Pinned Repositories
-- [practising-github](link) - Java
-- [Kishor](link) - Java
-- [arisyasyahirah.github.io](link) - HTML
-- [Test-github](link) - Java
-
----
-
-![GitHub followers](https://img.shields.io/github/followers/arisyasyahirah?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=arisyasyahirah)
 
 ## 📈 GitHub Analytics
 
