@@ -2,38 +2,28 @@
 
 **Software Engineering Student** · she/her
 
+Final-year Software Engineering student, building full-stack apps with Java/Spring Boot and React. Currently working on a Smart Parcel Management PWA for my Final Year Project.
 
 ### 💻 Tech Stack & Skills
+
 <div align="left">
 
-
-JavaScript &nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp; Three.js &nbsp;&nbsp;&nbsp; Node.js &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Shell &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; MySQL
-
-MongoDB &nbsp;&nbsp;&nbsp; D3.js &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; Postman &nbsp;&nbsp;&nbsp; Visual Studio Code
+Java &nbsp;&nbsp;&nbsp; Spring Boot &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; FastAPI &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp; Docker &nbsp;&nbsp;&nbsp; GCP
 
 </div>
 
-### 🛠️ Tools & Technologies
-- VS Code
+### 🧪 Testing & Tools
+
+- Selenium WebDriver, JUnit 5
 - Postman
-- Figma
-- MongoDB
-- D3.js
-<div align="left">
-
-
-VS Code &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp; Three.js &nbsp;&nbsp;&nbsp; Node.js &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Shell &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; MySQL
-
-MongoDB &nbsp;&nbsp;&nbsp; D3.js &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; Postman &nbsp;&nbsp;&nbsp; Visual Studio Code
-
-</div>
+- VS Code
+- Git / GitHub
 
 ### 🏆 Achievements & Highlights
-- Bachelor of Computer Science (Software Engineering)
-- Passionate about Software Development
-- Problem Solving & Building Scalable Applications
 
-
+- Bachelor of Computer Science (Software Engineering) — CGPA 3.71
+- Building a Smart Parcel Management System (PWA) as Final Year Project
+- Passionate about full-stack development and scalable application design
 
 ## 📈 GitHub Analytics
 
@@ -47,4 +37,3 @@ MongoDB &nbsp;&nbsp;&nbsp; D3.js &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; Pos
 </p>
 
 ⭐️ From [arisyasyahirah](https://github.com/arisyasyahirah)
-
